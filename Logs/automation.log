@@ -1,0 +1,8 @@
+14:26:15.212 [main] INFO  AllTestcases.TestCases - Surgeries list is printed
+14:26:23.513 [main] INFO  AllTestcases.TestCases - clicked on for corporates
+14:26:31.916 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:26:36.457 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:26:44.899 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:26:50.004 [main] INFO  AllTestcases.TestCases - Button is enabled and thank you message is displayed
+14:29:59.055 [main] INFO  AllTestcases.TestCases - Chrome browser opened successfully
+14:30:02.652 [main] INFO  AllTestcases.TestCases - *******Started******

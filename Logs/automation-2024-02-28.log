@@ -1,0 +1,55 @@
+17:10:31.807 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:10:34.853 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page
+17:10:39.037 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except emailId
+17:10:39.657 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:10:41.522 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page to enter details
+17:10:44.789 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details
+17:10:45.495 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo is enabled
+17:11:07.511 [main] INFO  stepdefinitions.Stepdefinitions - ThankYou message is displayed
+17:12:30.041 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to the practo website
+17:12:30.074 [main] INFO  stepdefinitions.Stepdefinitions - user got the current url
+17:12:30.082 [main] INFO  stepdefinitions.Stepdefinitions - Verified the practo page
+17:12:33.872 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on find doctors
+17:12:34.534 [main] INFO  stepdefinitions.Stepdefinitions - user selected a city
+17:12:38.791 [main] INFO  stepdefinitions.Stepdefinitions - user selected a doctor
+17:13:00.188 [main] INFO  stepdefinitions.Stepdefinitions - user applied filters
+17:13:22.851 [main] INFO  stepdefinitions.Stepdefinitions - user got the doctors list
+17:13:25.050 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on surgeries
+17:13:28.858 [main] INFO  stepdefinitions.Stepdefinitions - surgeries list is displayed
+17:13:34.509 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on For Corporates
+17:13:34.526 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to form page
+17:13:35.070 [main] INFO  stepdefinitions.Stepdefinitions - user is on form page
+17:13:40.261 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except phone number
+17:13:40.864 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:13:42.948 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page
+17:13:45.907 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except emailId
+17:13:46.465 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:13:47.946 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page to enter details
+17:13:50.908 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details
+17:13:51.581 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo is enabled
+17:14:21.634 [main] INFO  stepdefinitions.Stepdefinitions - ThankYou message is displayed
+17:17:48.743 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to the practo website
+17:17:48.778 [main] INFO  stepdefinitions.Stepdefinitions - user got the current url
+17:17:48.791 [main] INFO  stepdefinitions.Stepdefinitions - Verified the practo page
+17:17:52.178 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on find doctors
+17:17:52.665 [main] INFO  stepdefinitions.Stepdefinitions - user selected a city
+17:17:56.786 [main] INFO  stepdefinitions.Stepdefinitions - user selected a doctor
+17:18:18.165 [main] INFO  stepdefinitions.Stepdefinitions - user applied filters
+17:18:34.766 [main] INFO  stepdefinitions.Stepdefinitions - user got the doctors list
+17:18:36.216 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on surgeries
+17:18:39.123 [main] INFO  stepdefinitions.Stepdefinitions - surgeries list is displayed
+17:18:45.795 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on For Corporates
+17:18:45.810 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to form page
+17:18:46.275 [main] INFO  stepdefinitions.Stepdefinitions - user is on form page
+17:18:51.535 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except phone number
+17:18:52.065 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:18:53.979 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page
+17:18:56.810 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except emailId
+17:18:57.329 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:18:59.788 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page to enter details
+17:19:02.887 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details
+17:19:03.433 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo is enabled
+17:24:28.338 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to the practo website
+17:24:28.373 [main] INFO  stepdefinitions.Stepdefinitions - user got the current url
+17:24:28.380 [main] INFO  stepdefinitions.Stepdefinitions - Verified the practo page
+17:24:31.350 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on find doctors

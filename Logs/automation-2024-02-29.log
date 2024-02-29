@@ -1,0 +1,58 @@
+17:24:31.890 [main] INFO  stepdefinitions.Stepdefinitions - user selected a city
+17:24:35.974 [main] INFO  stepdefinitions.Stepdefinitions - user selected a doctor
+17:24:58.590 [main] INFO  stepdefinitions.Stepdefinitions - user applied filters
+17:25:20.745 [main] INFO  stepdefinitions.Stepdefinitions - user got the doctors list
+17:25:22.326 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on surgeries
+17:25:25.458 [main] INFO  stepdefinitions.Stepdefinitions - surgeries list is displayed
+17:25:32.509 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on For Corporates
+17:25:32.524 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to form page
+17:25:32.979 [main] INFO  stepdefinitions.Stepdefinitions - user is on form page
+17:25:38.202 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except phone number
+17:25:38.717 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:25:40.671 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page
+17:25:44.501 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except emailId
+17:25:45.061 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+17:25:47.318 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page to enter details
+17:25:50.787 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details
+17:25:51.388 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo is enabled
+17:26:09.121 [main] INFO  stepdefinitions.Stepdefinitions - ThankYou message is displayed
+20:06:38.785 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to the practo website
+20:06:38.829 [main] INFO  stepdefinitions.Stepdefinitions - user got the current url
+20:06:38.837 [main] INFO  stepdefinitions.Stepdefinitions - Verified the practo page
+20:06:41.899 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on find doctors
+20:06:42.444 [main] INFO  stepdefinitions.Stepdefinitions - user selected a city
+20:06:46.574 [main] INFO  stepdefinitions.Stepdefinitions - user selected a doctor
+20:07:07.957 [main] INFO  stepdefinitions.Stepdefinitions - user applied filters
+20:07:26.232 [main] INFO  stepdefinitions.Stepdefinitions - user got the doctors list
+20:07:27.779 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on surgeries
+20:07:30.756 [main] INFO  stepdefinitions.Stepdefinitions - surgeries list is displayed
+20:07:39.049 [main] INFO  stepdefinitions.Stepdefinitions - user clicked on For Corporates
+20:07:39.064 [main] INFO  stepdefinitions.Stepdefinitions - user is navigated to form page
+20:07:39.677 [main] INFO  stepdefinitions.Stepdefinitions - user is on form page
+20:07:45.000 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except phone number
+20:07:45.544 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+20:07:48.053 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page
+20:07:52.028 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details except emailId
+20:07:52.633 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo button is disabled
+20:07:54.467 [main] INFO  stepdefinitions.Stepdefinitions - user refreshes the page to enter details
+20:07:57.937 [main] INFO  stepdefinitions.Stepdefinitions - user gives all valid details
+20:07:58.589 [main] INFO  stepdefinitions.Stepdefinitions - Schedule a demo is enabled
+20:08:18.059 [main] INFO  stepdefinitions.Stepdefinitions - ThankYou message is displayed
+14:21:56.879 [main] INFO  AllTestcases.TestCases - Chrome browser opened successfully
+14:22:01.638 [main] INFO  AllTestcases.TestCases - *******Started******
+14:22:10.292 [main] INFO  AllTestcases.TestCases - Searched Doctors
+14:22:17.757 [main] INFO  AllTestcases.TestCases - Applying filters
+14:22:30.602 [main] INFO  AllTestcases.TestCases - Applied Filters
+14:22:51.998 [main] INFO  AllTestcases.TestCases - Doctors List is Printed
+14:22:57.594 [main] INFO  AllTestcases.TestCases - Surgeries list is printed
+14:23:03.252 [main] INFO  AllTestcases.TestCases - clicked on for corporates
+14:23:11.552 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:23:15.879 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:23:24.469 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:23:30.197 [main] INFO  AllTestcases.TestCases - Button is enabled and thank you message is displayed
+14:25:16.667 [main] INFO  AllTestcases.TestCases - Chrome browser opened successfully
+14:25:21.219 [main] INFO  AllTestcases.TestCases - *******Started******
+14:25:31.101 [main] INFO  AllTestcases.TestCases - Searched Doctors
+14:25:39.244 [main] INFO  AllTestcases.TestCases - Applying filters
+14:25:52.412 [main] INFO  AllTestcases.TestCases - Applied Filters
+14:26:10.343 [main] INFO  AllTestcases.TestCases - Doctors List is Printed
